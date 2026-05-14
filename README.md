@@ -7,7 +7,7 @@
 > A **high-end interactive portfolio card** with smooth 3D tilt effect, premium dark/gold aesthetics, and a fully responsive layout.  
 > Inspired by luxury restaurant menus — turned into a modern developer profile.
 
-![Preview](https://via.placeholder.com/1200x630/111318/c8a870?text=3D+Tilt+Profile+Card)  
+![Preview](/pre.png)  
 *(Replace with actual screenshot or screen recording GIF)*
 
 ---

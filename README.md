@@ -40,7 +40,9 @@
 
 .
 ├── index.html # Complete single‑file application
+
 ├── README.md # This file
+
 └── assets/ (optional) # Replace avatar with your own image
 
 

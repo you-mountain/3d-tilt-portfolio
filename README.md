@@ -52,7 +52,7 @@
 
 ### 1. Clone or download
 ```bash
-git clone https://github.com/your-username/3d-tilt-portfolio.git
+git clone https://github.com/you-mountain/3d-tilt-portfolio.git
 cd 3d-tilt-portfolio
 
 ```
@@ -131,9 +131,7 @@ Built with ❤️ for the frontend community
 📬 Contact
 For questions or collaborations:
 
-GitHub: @your-username
-
-Email: hello@yourdomain.com
+GitHub: @you-mountain
 
 ⭐ Show Your Support
 If this project helped you, please:
@@ -149,7 +147,7 @@ Platform	Link
 🌐 Live Demo	your-demo-link.vercel.app
 📺 YouTube Tutorial	Watch on YouTube
 📸 Instagram Reel	View Reel
-🐙 GitHub Repo	github.com/your-username/3d-tilt-portfolio
+🐙 GitHub Repo	github.com/you-mountain/3d-tilt-portfolio
 Made with obsessive detail & 3D magic ✨
 
 
@@ -165,7 +163,7 @@ In this video, you'll learn how to create a premium portfolio card with:
 • Zero frameworks – pure HTML, CSS, and JavaScript
 • Ready for GitHub, personal website, or freelancer portfolio
 
-📁 Download source code: [GitHub link]
+📁 Download source code: [[GitHub link](https://github.com/you-mountain/3d-tilt-portfolio)]
 
 🛠️ Tech used:
 HTML5, CSS3 (Grid, Flex, custom properties, keyframes), Vanilla JS, Font Awesome 6, Google Fonts

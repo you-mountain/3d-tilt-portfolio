@@ -151,30 +151,10 @@ Platform	Link
 🐙 GitHub Repo	github.com/your-username/3d-tilt-portfolio
 Made with obsessive detail & 3D magic ✨
 
-text
+
 
 ---
 
-## 📸 **Caption برای پست اینستاگرام (متن کوتاه)**
-🎭 Turning code into a luxury object
-
-This 3D tilt portfolio card follows your mouse with natural lag — like holding a real menu in a Michelin-starred restaurant.
-
-✨ Features:
-• Pure HTML/CSS/JS (no frameworks)
-• Dark/gold premium palette
-• Fully responsive + tab system
-• Ready for GitHub & YouTube
-
-👇 Full code & tutorial link in bio
-
-#webdev #frontend #css3d #javascript #portfolio #uiengineer #codingreel #devcommunity #100daysofcode
-
-text
-
----
-
-## 🎬 **توضیحات باکس YouTube (برای بخش Description)**
 🚀 Build a 3D Tilt Portfolio Card – Luxury Interactive Profile
 
 In this video, you'll learn how to create a premium portfolio card with:
@@ -202,32 +182,5 @@ HTML5, CSS3 (Grid, Flex, custom properties, keyframes), Vanilla JS, Font Awesome
 
 #css3d #portfolio #webdesign #frontend #javascript
 
-text
-
----
-
-## 🧰 **فایل `package.json` (اختیاری – برای GitHub نمایشی)**
-
-```json
-{
-  "name": "3d-tilt-portfolio",
-  "version": "1.0.0",
-  "description": "Luxury interactive portfolio card with 3D tilt effect – inspired by restaurant menus",
-  "main": "index.html",
-  "scripts": {
-    "start": "open index.html"
-  },
-  "keywords": [
-    "portfolio",
-    "3d-tilt",
-    "css3d",
-    "vanilla-js",
-    "responsive",
-    "luxury-design",
-    "frontend"
-  ],
-  "author": "Elias Voss",
-  "license": "MIT"
-}
-
+ 
 

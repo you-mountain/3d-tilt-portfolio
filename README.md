@@ -152,34 +152,4 @@ Made with obsessive detail & 3D magic ✨
 
 
 
----
-
-🚀 Build a 3D Tilt Portfolio Card – Luxury Interactive Profile
-
-In this video, you'll learn how to create a premium portfolio card with:
-• Smooth 3D tilt effect (mouse-follow with lag)
-• Dark/gold color palette inspired by fine dining menus
-• Fully responsive tab system (About, Resume, Work, Contact)
-• Zero frameworks – pure HTML, CSS, and JavaScript
-• Ready for GitHub, personal website, or freelancer portfolio
-
-📁 Download source code: [[GitHub link](https://github.com/you-mountain/3d-tilt-portfolio)]
-
-🛠️ Tech used:
-HTML5, CSS3 (Grid, Flex, custom properties, keyframes), Vanilla JS, Font Awesome 6, Google Fonts
-
-⏱️ Timestamps:
-0:00 – Demo & preview
-1:20 – HTML structure
-3:45 – CSS variables & luxury styling
-8:10 – 3D tilt effect with requestAnimationFrame
-12:30 – Tab system & animations
-15:00 – Responsive & print styles
-16:45 – Customization for your own profile
-
-🔔 Subscribe for more creative frontend projects!
-
-#css3d #portfolio #webdesign #frontend #javascript
-
- 
 
